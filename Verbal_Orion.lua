@@ -1,3 +1,5 @@
+--[[ ORIGNAL: https://github.com/VerbalHubz/Verbal-Hub/blob/main/verbal%20hub%20v2%20orion ]]--
+
 local UserInputService = game:GetService("UserInputService")
 local TweenService = game:GetService("TweenService")
 local RunService = game:GetService("RunService")
