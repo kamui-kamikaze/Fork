@@ -1,4 +1,4 @@
---[[ Orignal => https://github.com/deividcomsono/Obsidian/raw/refs/heads/main/addons/SaveManager.lua by [deividcomsono] ]]--
+--[[ Orignal => | https://github.com/deividcomsono/Obsidian/raw/refs/heads/main/addons/SaveManager.lua | by [deividcomsono] ]]--
 
 local cloneref = (cloneref or clonereference or function(instance: any)
     return instance
