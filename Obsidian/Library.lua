@@ -3603,7 +3603,7 @@ do
                 if Button.DoubleClick then
                     Button.Locked = true
 
-                    Button.Base.Text = "Are you sure?"
+                    Button.Base.Text = "Clicked"
                     Button.Base.TextColor3 = Library.Scheme.AccentColor
                     Library.Registry[Button.Base].TextColor3 = "AccentColor"
 
